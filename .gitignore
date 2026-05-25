@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+kaggle.json
+.gitignore
+flight-price-prediction/business.csv
+.gitignore
+flight-price-prediction.zip
+flight-price-prediction/economy.csv
+flight-price-prediction/Clean_Dataset.csv
